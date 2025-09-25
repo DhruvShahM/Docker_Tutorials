@@ -61,3 +61,7 @@ Here’s what you MUST follow:
 Now generate the full voiceover script with all of the above elements.
 
 Please generate the YouTube script (explainer format, in a natural, conversational tone for beginner programmers in India) for each object one by one.
+
+
+
+
